@@ -59,7 +59,7 @@ Ta även hjälp av [CSS Grid Inspector i Firefox.](https://firefox-source-docs.m
 20. Vad möjliggör grid-auto-flow dense?
 
 21. Diskutera skillnaderna/likheterna mellan CSS Flexbox och CSS Grid? 
-<img src="[https://your-image-url.type](https://github.com/chasacademy-sandra-larsson/css-grid-fundamentals/blob/main/css-grid-layout-1.pn)" width="50%" 
+<img src="[https://your-image-url.type](https://github.com/chasacademy-sandra-larsson/css-grid-fundamentals/blob/main/css-grid-layout-1.pn)" width="50%"> 
 
 ![](https://github.com/chasacademy-sandra-larsson/css-grid-fundamentals/blob/main/css-grid-layout-1.png =500x)
 
