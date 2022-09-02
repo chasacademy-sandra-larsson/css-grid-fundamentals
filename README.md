@@ -60,8 +60,8 @@ Ta även hjälp av [CSS Grid Inspector i Firefox.](https://firefox-source-docs.m
 
 21. Diskutera skillnaderna/likheterna mellan CSS Flexbox och CSS Grid? 
 
-![](https://github.com/chasacademy-sandra-larsson/css-grid-fundamentals/blob/main/css-grid-layout-1.png | width=600)
+![](https://github.com/chasacademy-sandra-larsson/css-grid-fundamentals/blob/main/css-grid-layout-1.png =500x)
 
-![](https://github.com/chasacademy-sandra-larsson/css-grid-fundamentals/blob/main/css-grid-layout-2.png | width=600)
+![](https://github.com/chasacademy-sandra-larsson/css-grid-fundamentals/blob/main/css-grid-layout-2.png =500x)
 
-![](https://github.com/chasacademy-sandra-larsson/css-grid-fundamentals/blob/main/css-grid-layout-3.png | width=600)
+![](https://github.com/chasacademy-sandra-larsson/css-grid-fundamentals/blob/main/css-grid-layout-3.png =500x)
