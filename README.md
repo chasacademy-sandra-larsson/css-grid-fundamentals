@@ -27,15 +27,9 @@ Ta även hjälp av [CSS Grid Inspector i Firefox.](https://firefox-source-docs.m
 
 11. Vad gör span?
 
-12. Vad gör auto-fit respektive auto-fill?
 
-13. Hur kan man använda auto-fit eller autofill tillsammans med minmax() för att skapa responsiv layout utan mediaqueries?
 
-14. Vad är en grid-area? 
 
-15. Skapa en grid med grid-template-areas för en tre-kolumns-layout med header och footer.
-
-16. Gör layouten responsiv även för mobil för layout i 15) genom att omdefinera grid-template-areas i mediaqueryn. 
 
 17. Hur kan man centera inuti en grid-cell m.h.a CSS grid?
 
@@ -54,7 +48,7 @@ Ta även hjälp av [CSS Grid Inspector i Firefox.](https://firefox-source-docs.m
       align-* is column axis
     */
 
-19. Vad är et subgrid?
+19. Vad är ett subgrid?
 
 20. Vad möjliggör grid-auto-flow dense?
 
