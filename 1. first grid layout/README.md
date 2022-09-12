@@ -4,7 +4,7 @@ Arbeta 2 och 2.
 
 1. Skapa layouten enligt bild m.h.a CSS Grid layout. Använd metoden för start- och slut grid-line öfr att positionera ut elementen. 
 
-[](https://github.com/chasacademy-sandra-larsson/css-grid-fundamentals/blob/main/1.%20first%20grid%20layout/screen.png)
+![Screen for excercise](https://github.com/chasacademy-sandra-larsson/css-grid-fundamentals/blob/main/1.%20first%20grid%20layout/screen.png)
 
 2. Samtidigt som ni skapar ert (första) grid. Diskutera:
 
