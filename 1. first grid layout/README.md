@@ -2,7 +2,9 @@
 
 Arbeta 2 och 2.
 
-1. Skapa layouten enligt bild m.h.a CSS Grid layout. Använd metoden för start- och slut grid-line öfr att positionera ut elementen.
+1. Skapa layouten enligt bild m.h.a CSS Grid layout. Använd metoden för start- och slut grid-line öfr att positionera ut elementen. 
+
+[](https://github.com/chasacademy-sandra-larsson/css-grid-fundamentals/blob/main/1.%20first%20grid%20layout/screen.png)
 
 2. Samtidigt som ni skapar ert (första) grid. Diskutera:
 
@@ -18,13 +20,15 @@ Arbeta 2 och 2.
 
     6. Vad är skillnaden mellan ett implicit grid och ett explicit grid?
 
-    7. Vad gör grid-auto-flow?
+    7. Vad är fr-enheten?
 
-    8. Vad är fr-enheten?
+    8. Vad gör funktionen repeat()?
 
-    9. Vad gör funktionen repeat()?
+    9. Vad ör funktionen minmax()?
 
-    10. Hur kan man placera ett specifikt element över vissa rader och kolumner?
+    10. Vad finns det för enheter, funktioner för att anpassa innehållet i elementet över en grid-track?
+
+    10. Hur kan man placera ett specifikt element över vissa rader och kolumner m h a gridlinjer?
 
     11. Vad gör span?
 
