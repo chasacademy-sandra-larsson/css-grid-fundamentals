@@ -16,7 +16,7 @@ Samtidigt som ni skapar ert (första) grid. Diskutera:
 
 4. Vad gör grid-template-columns, resp grid-template-rows?
 
-5. Hur anger man ett "gap" mellan rader och kolumner?
+5. Om du skulle vilja lägga till ett avstånde mellan rader och/eller kolumner, hur gör man då?
 
 6. Vad är skillnaden mellan ett implicit grid och ett explicit grid?
 
@@ -26,12 +26,12 @@ Samtidigt som ni skapar ert (första) grid. Diskutera:
 
 9. Vad ör funktionen minmax()?
 
-10. Vad finns det för enheter, funktioner för att höjd/bredd efterinnehållet?
+10. Vad finns det för enheter, funktioner för att höjd/bredd efter innehållet?
 
-11. Hur kan man placera ett specifikt element över vissa rader och kolumner m h a gridlinjer?
+11. Hur kan man placera ett specifikt element över vissa rader och kolumner m.h.a gridlinjer?
 
 12. Vad gör span?
 
 
-Devtools i Mozilla Firefox har ett bra visuell vy för CSS grid. Använd det när ni både kodar och diksuterar frågorna. 
+Devtools i Mozilla Firefox har ett bra visuell vy för CSS grid. Använd det när ni både kodar och diskuterar frågorna. 
 [CSS Grid Inspector i Firefox.](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_grid_layouts/index.html) 
