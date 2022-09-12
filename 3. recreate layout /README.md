@@ -12,7 +12,13 @@ Du ska "blocka" upp en befintlig sida m.h.a CSS Grid - alltså inget innehåll e
 
 - Gör sidan responsiv för mobil och desktop
 
+Välj själv en sida efter intresse och ambitionsnivå!
 
+Förslag på sidor:
+
+https://www.forsakringskassan.se/privatperson
+https://www.csn.se/
+https://sl.se/
 
 
 
