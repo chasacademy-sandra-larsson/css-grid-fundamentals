@@ -1,41 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 :root {
     --black: #00035f;
-    --grey: #000;
-    --purple: #000;
-    --light-green: #000;
-    --pink: #000:
-
+    --red: #F25B43;
+    --light-yellow: #F7DB72;
+    --yellow: #FAA528;
+    --cerise: #C13291;  
+    --purple: #793DC3;
+    --blue: #67A1CE;
+    font-size: 18px;
   }
 
-*,*::before,*::after {
-    box-sizing:border-box;
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
     margin: 0;
 }
 
-body {
-    background: #24C6DC;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #514A9D, #24C6DC);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #514A9D, #24C6DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    font-family: "Open Sans", sans-serif;
-    font-size: 10px;
-    font-weight: 600px;
-    color: var(--black); 
-    margin: 100px;  
+h1,
+h2,
+h3 {
+	margin: 0;
+	padding: 1em 1rem;
 }
 
-.item {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 5px solid rgba(0, 0, 0, 0.3);
-    border-radius: 3px;
-    font-size: 35px;
-    background-color: var(--red); /* best colour */
+p {
+	margin: 0;
+	padding: 1.5rem 1rem;
 }
+
+
+body {
+    font-family: "Roboto", sans-serif;
+	line-height: 1.5;
+    color: var(--black); 
+
+     
+}
+
+.container > * {
+    padding: 1em 2em;
+}
+
 
 .container {
-    display: grid;
-    grid-template-columns: 200px 500px;
-    grid-template-rows: 200px 100px 400px;
-    grid-gap: 20px;
+    /* Define CSS Grid template here */
+    
 }
+
+
