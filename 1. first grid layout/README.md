@@ -26,7 +26,7 @@ Samtidigt som ni skapar ert (första) grid. Diskutera:
 
 9. Vad ör funktionen minmax()?
 
-10. Vad finns det för enheter, funktioner för att anpassa innehållet i elementet över en grid-track?
+10. Vad finns det för enheter, funktioner för att höjd/bredd efterinnehållet?
 
 11. Hur kan man placera ett specifikt element över vissa rader och kolumner m h a gridlinjer?
 
