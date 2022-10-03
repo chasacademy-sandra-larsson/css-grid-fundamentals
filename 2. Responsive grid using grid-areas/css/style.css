@@ -5,7 +5,7 @@
     --black: #00035f;
   }
 
-*,*::before,*::after {
+* {
     box-sizing:border-box;
     margin: 0;
 }
@@ -19,18 +19,10 @@ body {
     margin: 100px;  
 }
 
-.item {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 1rem 2rem;
-    font-size: 35px;
-    border: 4px solid var(--red);
-    border-radius: 10px;
-}
+
 
 .container {
-    height: 100vh;
+   
  
 
 }
