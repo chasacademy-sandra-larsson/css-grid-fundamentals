@@ -2,7 +2,7 @@
 
 Arbeta 2 och 2.
 
-1. Skapa layouten enligt bild m.h.a CSS Grid layout. Använd metoden för start- och slut grid-line öfr att positionera ut elementen. 
+1. Skapa layouten enligt bild m.h.a CSS Grid layout. Använd metoden för start- och slut grid-line för att positionera ut elementen. 
 
 ![Screen for excercise](https://github.com/chasacademy-sandra-larsson/css-grid-fundamentals/blob/main/1.%20first%20grid%20layout/screen.png)
 
@@ -24,9 +24,9 @@ Samtidigt som ni skapar ert (första) grid. Diskutera:
 
 8. Vad gör funktionen repeat()?
 
-9. Vad ör funktionen minmax()?
+9. Vad gör funktionen minmax()?
 
-10. Vad finns det för enheter, funktioner för att höjd/bredd efter innehållet?
+10. Vad finns det för enheter, funktioner för att anpassa höjd/bredd efter innehållet?
 
 11. Hur kan man placera ett specifikt element över vissa rader och kolumner m.h.a gridlinjer?
 
