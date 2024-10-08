@@ -44,7 +44,24 @@ body {
 
 .container {
     /* Define CSS Grid template here */
-    
+    display: grid;
+    grid-template-columns: 1fr repeat(6, minmax(100px, 10rem)) 1fr;
+    grid-template-rows: auto 1fr auto auto;
+    row-gap: 1rem;
+    column-gap: 1rem;
 }
 
+.header {
+    background-color: var(--purple);
+    grid-row: 1 / 2;
+    grid-column: 1 / 9;
+    /* grid-column: 1 / -1; sista kolumnen */
+    /* grid-column: 1 / span 8; sträcker sig över sista kolumnen */
+}
+
+.main-content {
+    background-color: var(--yellow);
+    grid-row:  2 / 3;
+    grid-column: 2 / span 4;
+}
 
